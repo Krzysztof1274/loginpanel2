@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginPanel</string>
+    <string name="login">Na tym panelu zalogujesz się do aplikacji TFI AGRO S.A.</string>
+    <string name="text1">Podaj swój login:</string>
+    <string name="text2">Podaj swoje hasło:</string>
+    <string name="logo">logo TFI</string>
+</resources>
